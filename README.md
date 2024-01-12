@@ -1,6 +1,6 @@
 # PDV API (Ponto de Venda)
 
-![Logo](https://th.bing.com/th/id/OIG.3M9QtpntT_umttdFtkiu?pid=ImgGn)
+<img src="https://th.bing.com/th/id/OIG.3M9QtpntT_umttdFtkiu?pid=ImgGn" alt="Logo" style="width:150px; height:150px;">
 
 ## Introdução
 
