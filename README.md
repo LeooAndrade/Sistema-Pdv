@@ -8,7 +8,7 @@ Bem-vindo ao repositório da PDV API! Este projeto faz parte do Desafio Backend 
 
 # 🚀 Funcionalidades
 
-### Banco de Dados
+### Requisições HTTP
 
 - Criação das tabelas: `usuarios` e `categorias`.
 - Listagem de categorias: `GET /categoria`.
